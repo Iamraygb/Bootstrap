@@ -1,0 +1,8 @@
+.button-class{
+    background-color: rgb(205, 200, 194);
+    ;
+    border-radius: 30px;
+}
+.button-border{
+    border: ridge 9px rgb(149, 138, 138)
+}
